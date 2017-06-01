@@ -1,3 +1,7 @@
 echo exit test1
-exit
+test -e exit; ls -l
+[ exit ]
+test -e ./nofile && exit
+ls && echo foobar || exit
+echo foobar && exit && echo foobar
 echo should not echo
