@@ -26,6 +26,6 @@ RShellContainer.hh
 
 Bugs
 -----
-Parenthetical precedencce operator not implemented
+Parenthetical precedence operator not implemented
 
 
