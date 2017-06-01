@@ -1,0 +1,3 @@
+echo this should echo # and this should not
+ls -l; ls # -l; ls -l
+# echo should not echo

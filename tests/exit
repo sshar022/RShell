@@ -1,0 +1,3 @@
+echo exit test1
+exit
+echo should not echo
